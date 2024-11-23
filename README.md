@@ -1,6 +1,3 @@
-Here’s the same `README.md` content in plain text format for easy pasting:
-
-```markdown
 # 💻 Om Suthar | MERN Stack Developer  
 
 [![GitHub Followers](https://img.shields.io/github/followers/ompsuthar9000?style=social)](https://github.com/ompsuthar9000)  
@@ -73,4 +70,3 @@ An immersive travel hub guiding users through diverse destinations with an inter
 🌐 GitHub: [ompsuthar9000](https://github.com/ompsuthar9000)  
 
 ---
-```
