@@ -8,7 +8,7 @@
 
 ## 🌟 About Me  
 
-🚀 **13 Months of Experience** | 🛠️ **React & MERN Stack Specialist** | 🌐 **Full-Stack Enthusiast**  
+🚀 ** 1Year+ Experience** | 🛠️ **React & MERN Stack Specialist** | 🌐 **Full-Stack Enthusiast**  
 
 I am a passionate and highly motivated IT graduate with over a year of hands-on experience as a React.js developer. My expertise lies in creating responsive, user-friendly web applications with a focus on modern web development practices.  
 
