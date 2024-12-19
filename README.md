@@ -12,7 +12,7 @@
 
 I am a passionate and highly motivated IT graduate with over a year of hands-on experience as a React.js developer. My expertise lies in creating responsive, user-friendly web applications with a focus on modern web development practices.  
 
-🔭 **Current Role:** React.js Developer at WayToWeb Pvt Ltd  
+🔭 **Current Role:** MERN Stack Developer at WayToWeb Pvt Ltd  
 📚 **Education:** B.Tech in Information Technology, Swarrnim University  
 ⚡ **Location:** Gandhinagar, Gujarat  
 
